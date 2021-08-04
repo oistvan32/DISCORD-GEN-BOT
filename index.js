@@ -60,5 +60,5 @@ client.on('ready', async () => {
     }, 4000)
 })
 
-client.login('ODcwMzQ4NTY1ODEyMjQ0NTIx.YQLdRA.X4Bmfi_BAs5MC8aE1z3fsKL9cfQ')
+bot.login(process.env.BOT_TOKEN);
 
